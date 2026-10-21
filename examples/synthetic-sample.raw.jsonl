@@ -1,0 +1,12 @@
+{"angle_rad": -0.2615375884113503, "intensity": 795, "line_id": 0, "schema_version": 1, "simulated": true, "time_basis": "SIM_RELATIVE", "timestamp_ns": 0, "tof_ns": 46.30743440014175}
+{"angle_rad": -0.26101398963575195, "intensity": 796, "line_id": 0, "schema_version": 1, "simulated": true, "time_basis": "SIM_RELATIVE", "timestamp_ns": 50000, "tof_ns": 46.40050436402744}
+{"angle_rad": -0.2604903908601537, "intensity": 796, "line_id": 0, "schema_version": 1, "simulated": true, "time_basis": "SIM_RELATIVE", "timestamp_ns": 100000, "tof_ns": 46.208988273654214}
+{"angle_rad": -0.25996679208455536, "intensity": 796, "line_id": 0, "schema_version": 1, "simulated": true, "time_basis": "SIM_RELATIVE", "timestamp_ns": 150000, "tof_ns": 46.0384377525419}
+{"angle_rad": -0.25944319330895704, "intensity": 797, "line_id": 0, "schema_version": 1, "simulated": true, "time_basis": "SIM_RELATIVE", "timestamp_ns": 200000, "tof_ns": 46.436801700945665}
+{"angle_rad": -0.2589195945333588, "intensity": 797, "line_id": 0, "schema_version": 1, "simulated": true, "time_basis": "SIM_RELATIVE", "timestamp_ns": 250000, "tof_ns": 46.23262458983422}
+{"angle_rad": -0.25839599575776045, "intensity": 797, "line_id": 0, "schema_version": 1, "simulated": true, "time_basis": "SIM_RELATIVE", "timestamp_ns": 300000, "tof_ns": 46.15276916890766}
+{"angle_rad": -0.2578723969821622, "intensity": 798, "line_id": 0, "schema_version": 1, "simulated": true, "time_basis": "SIM_RELATIVE", "timestamp_ns": 350000, "tof_ns": 46.17634051897905}
+{"angle_rad": -0.25734879820656387, "intensity": 798, "line_id": 0, "schema_version": 1, "simulated": true, "time_basis": "SIM_RELATIVE", "timestamp_ns": 400000, "tof_ns": 46.36251907111978}
+{"angle_rad": -0.25682519943096555, "intensity": 798, "line_id": 0, "schema_version": 1, "simulated": true, "time_basis": "SIM_RELATIVE", "timestamp_ns": 450000, "tof_ns": 46.10607927491796}
+{"angle_rad": -0.2563016006553673, "intensity": 799, "line_id": 0, "schema_version": 1, "simulated": true, "time_basis": "SIM_RELATIVE", "timestamp_ns": 500000, "tof_ns": 46.34019652259314}
+{"angle_rad": -0.25577800187976896, "intensity": 799, "line_id": 0, "schema_version": 1, "simulated": true, "time_basis": "SIM_RELATIVE", "timestamp_ns": 550000, "tof_ns": 46.31229868748833}

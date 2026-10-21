@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If referencing this concept and software, cite this project record. It is not a peer-reviewed or experimentally validated sensor paper."
+title: "Narwhal Two Plus: Concept Underwater LiDAR Design and Reference Software"
+authors:
+  - name: "Narwhal Two Plus project"
+version: 0.1.0
+date-released: 2026-10-21
+url: "https://github.com/jeremedotxyz/narwhal-two-plus"
+type: software
+abstract: "A concept 532 nm underwater LiDAR design record, vector drawings, bistatic reconstruction, synthetic reference experiment and proposed data protocol. No hardware performance has been validated."
+keywords:
+  - underwater lidar
+  - bistatic ranging
+  - reference simulation

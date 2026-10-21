@@ -1,0 +1,26 @@
+name: Reference software checks
+on: [push, pull_request]
+permissions:
+  contents: read
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python: ['3.10', '3.12']
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python }}
+      - name: Unit and integration tests
+        env:
+          PYTHONPATH: src
+        run: python -m unittest discover -s tests -v
+      - name: Reproduce synthetic experiment
+        env:
+          PYTHONPATH: src
+        run: |
+          python -m narwhal --config config/concept.json simulate --out runs/ci --lines 2 --seed 532
+          python -m narwhal --config config/concept.json replay runs/ci.raw.jsonl --out runs/replay
+          python -m narwhal metrics

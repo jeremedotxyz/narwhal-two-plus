@@ -1,0 +1,10 @@
+item,qty,assembly,provisional_material_or_type,release_status
+01,1,Pressure tube and end flanges,Titanium Grade 5,Concept dimensions only; external-pressure design pending
+02,1,Transmit pressure window,Sapphire D32 clear,Blank and thickness unselected
+03,1,Receive pressure window,Sapphire D60 clear,Blank and thickness unselected
+04,1,Pulsed source and scan head,532 nm laser and 1-axis galvo,Vendor and part number unselected
+05,1,Receiver and timing chain,Lens filter silicon APD TIA ADC FPGA,Optical prescription and electronics absent
+06,1,Power and compute assembly,Isolated DC/DC and CPU,Eight power/interface design tasks unresolved
+07,1,Rear subsea interface,12-contact wet-mate concept,Connector current rating and pin geometry TBD
+08,2,Mount saddles,Titanium concept,Mechanical load and galvanic review pending
+09,TBD,Seal sets,Elastomer compound TBD,Glands squeeze extrusion and compatibility pending

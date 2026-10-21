@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "calibration_id": "concept-A-20261021",
+  "n_group": 1.34,
+  "n_phase": 1.333,
+  "baseline_m": 0.06,
+  "fov_deg": 30.0,
+  "samples_per_line": 1000,
+  "pulse_rate_hz": 20000,
+  "range_min_m": 1.0,
+  "range_max_m": 15.0,
+  "attenuation_m_inv": 0.1,
+  "timing_sigma_ns": 0.1,
+  "dropout_probability": 0.02,
+  "source_delay_ns": 0.0,
+  "water_temperature_c": 15.0,
+  "salinity_psu": 35.0
+}

@@ -1,0 +1,39 @@
+{
+  "evidence": "synthetic only; not hardware performance",
+  "seed": 532,
+  "config": {
+    "schema_version": 1,
+    "calibration_id": "concept-A-20261021",
+    "n_group": 1.34,
+    "n_phase": 1.333,
+    "baseline_m": 0.06,
+    "fov_deg": 30.0,
+    "samples_per_line": 1000,
+    "pulse_rate_hz": 20000,
+    "range_min_m": 1.0,
+    "range_max_m": 15.0,
+    "attenuation_m_inv": 0.1,
+    "timing_sigma_ns": 0.1,
+    "dropout_probability": 0.02,
+    "source_delay_ns": 0.0,
+    "water_temperature_c": 15.0,
+    "salinity_psu": 35.0
+  },
+  "records": 2000,
+  "valid": 1952,
+  "rejected": 48,
+  "z_bias_m": 0.00018184381914622473,
+  "z_sample_sigma_m": 0.011041251018137148,
+  "z_rmse_m": 0.011039920186493711,
+  "timing_only_monostatic_sigma_m": 0.011186285746268657,
+  "metrics": {
+    "group_velocity_m_s": 223725714.9253731,
+    "monostatic_tof_5m_ns": 44.69758875655237,
+    "range_spacing_at_2GSps_m": 0.05593142873134329,
+    "swath_at_5m_m": 2.679491924311227,
+    "ideal_line_rate_hz": 20.0,
+    "seawater_pressure_300m_pa": 3016575.0,
+    "clear_aperture_load_60mm_n": 8529.164873102367,
+    "optical_average_power_w": 0.1
+  }
+}

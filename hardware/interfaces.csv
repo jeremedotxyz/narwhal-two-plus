@@ -1,0 +1,22 @@
+interface,parameter,nominal,unit,status
+Housing,outside_diameter,140,mm,Assumption
+Housing,inside_diameter,120,mm,Assumption
+Flange,max_diameter,160,mm,Assumption
+Body,length,320,mm,Assumption
+Connector,overall_envelope,359,mm,Assumption
+TX,clear_aperture,32,mm,Target
+RX,clear_aperture,60,mm,Target
+Optics,vertical_baseline,60,mm,Assumption
+Mount,longitudinal_pitch,220,mm,Assumption
+Mount,transverse_pitch,90,mm,Assumption
+Mount,hole_diameter,8.5,mm,Nominal through hole
+Power,input_min,18,V,Target
+Power,input_max,30,V,Target
+Power,nominal_budget,35,W,Unverified allocation
+Power,peak_budget,60,W,Unverified allocation
+J1,1 and 2,VIN+ and VIN-,contacts,Logical only
+J1,3 and 4,ETH TX+ and TX-,contacts,Logical only
+J1,5 and 6,ETH RX+ and RX-,contacts,Logical only
+J1,7 and 8,PPS+ and PPS-,contacts,Logical only
+J1,9 and 10,ENABLE+ and ENABLE-,contacts,Logical only
+J1,11 and 12,SERVICE+ and SERVICE-,contacts,Logical only
